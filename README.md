@@ -41,4 +41,5 @@ public class Main extends Application {
         primaryStage.show();
     }
 }
-![image](https://github.com/stevenbetancourtuwu/stevennuwu/assets/172458170/c991ac84-8c98-405a-b9dc-0cd83b7aa7a7)
+![image](https://github.com/stevenbetancourtuwu/stevennuwu/assets/172458170/9441dc79-d821-44f5-8e12-e6a34a10e407)
+
